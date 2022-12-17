@@ -1,0 +1,5 @@
+Silabus rekayasa perangkat lunak kelas 5
+- Git & GitHub
+- Framework Boostrap
+- Framework Codeigniter
+- Mysql
